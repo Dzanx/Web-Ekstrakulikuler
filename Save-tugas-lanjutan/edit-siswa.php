@@ -1,0 +1,6 @@
+// ... existing code ...
+<head>
+    <title>Edit Data Siswa</title>
+    <link rel="stylesheet" href="styles/stlye.css">
+</head>
+// ... existing code ...
